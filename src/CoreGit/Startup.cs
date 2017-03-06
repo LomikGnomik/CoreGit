@@ -30,7 +30,7 @@ namespace CoreGit
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello Wod!");
+                await context.Response.WriteAsync("Hello Woid!");
             });
         }
     }
